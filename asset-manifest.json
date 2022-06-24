@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/dbdodnb/sofia-portfolio.git/static/css/main.9a938203.css",
-    "main.js": "/dbdodnb/sofia-portfolio.git/static/js/main.71262f3e.js",
-    "static/js/787.dbbd0357.chunk.js": "/dbdodnb/sofia-portfolio.git/static/js/787.dbbd0357.chunk.js",
-    "static/media/me.jpg": "/dbdodnb/sofia-portfolio.git/static/media/me.ca10bca450d7b4cf920f.jpg",
-    "static/media/social.png": "/dbdodnb/sofia-portfolio.git/static/media/social.4dce4fd0f90d0b026e92.png",
-    "static/media/Comfortaa-VariableFont_wght.ttf": "/dbdodnb/sofia-portfolio.git/static/media/Comfortaa-VariableFont_wght.42599e57da15daf79164.ttf",
-    "static/media/cloud_bread.png": "/dbdodnb/sofia-portfolio.git/static/media/cloud_bread.1fcf70b79f35d3203323.png",
-    "static/media/ukrainians.png": "/dbdodnb/sofia-portfolio.git/static/media/ukrainians.af51e0c0d74d3f6cac76.png",
-    "static/media/ukraine.png": "/dbdodnb/sofia-portfolio.git/static/media/ukraine.12f42c2257d054bd3425.png",
-    "static/media/YesevaOne-Regular.ttf": "/dbdodnb/sofia-portfolio.git/static/media/YesevaOne-Regular.77e7411de8c57683e277.ttf",
-    "static/media/hungry.png": "/dbdodnb/sofia-portfolio.git/static/media/hungry.cf96cead5543543d2e6a.png",
-    "static/media/grocery.png": "/dbdodnb/sofia-portfolio.git/static/media/grocery.5d3cecd5fdb9bcc1a0ae.png",
-    "static/media/github.svg": "/dbdodnb/sofia-portfolio.git/static/media/github.3dfe2ad4559f409eebbd4f2111d6f3f5.svg",
-    "static/media/linkedin.svg": "/dbdodnb/sofia-portfolio.git/static/media/linkedin.42e6abe879c67b19c390bcfa9f88d1f5.svg",
-    "static/media/insta.svg": "/dbdodnb/sofia-portfolio.git/static/media/insta.b9d4547fcfa37274c4106ed113060171.svg",
-    "index.html": "/dbdodnb/sofia-portfolio.git/index.html",
-    "static/media/arrow.svg": "/dbdodnb/sofia-portfolio.git/static/media/arrow.b44ca1674ffe09946456.svg",
-    "main.9a938203.css.map": "/dbdodnb/sofia-portfolio.git/static/css/main.9a938203.css.map",
-    "main.71262f3e.js.map": "/dbdodnb/sofia-portfolio.git/static/js/main.71262f3e.js.map",
-    "787.dbbd0357.chunk.js.map": "/dbdodnb/sofia-portfolio.git/static/js/787.dbbd0357.chunk.js.map"
+    "main.css": "/sofo4ka19/portfolio.git/static/css/main.d4aa6f16.css",
+    "main.js": "/sofo4ka19/portfolio.git/static/js/main.960982db.js",
+    "static/js/787.dbbd0357.chunk.js": "/sofo4ka19/portfolio.git/static/js/787.dbbd0357.chunk.js",
+    "static/media/me.jpg": "/sofo4ka19/portfolio.git/static/media/me.ca10bca450d7b4cf920f.jpg",
+    "static/media/social.png": "/sofo4ka19/portfolio.git/static/media/social.4dce4fd0f90d0b026e92.png",
+    "static/media/Comfortaa-VariableFont_wght.ttf": "/sofo4ka19/portfolio.git/static/media/Comfortaa-VariableFont_wght.42599e57da15daf79164.ttf",
+    "static/media/cloud_bread.png": "/sofo4ka19/portfolio.git/static/media/cloud_bread.1fcf70b79f35d3203323.png",
+    "static/media/ukrainians.png": "/sofo4ka19/portfolio.git/static/media/ukrainians.af51e0c0d74d3f6cac76.png",
+    "static/media/ukraine.png": "/sofo4ka19/portfolio.git/static/media/ukraine.12f42c2257d054bd3425.png",
+    "static/media/YesevaOne-Regular.ttf": "/sofo4ka19/portfolio.git/static/media/YesevaOne-Regular.77e7411de8c57683e277.ttf",
+    "static/media/hungry.png": "/sofo4ka19/portfolio.git/static/media/hungry.cf96cead5543543d2e6a.png",
+    "static/media/grocery.png": "/sofo4ka19/portfolio.git/static/media/grocery.5d3cecd5fdb9bcc1a0ae.png",
+    "static/media/github.svg": "/sofo4ka19/portfolio.git/static/media/github.3dfe2ad4559f409eebbd4f2111d6f3f5.svg",
+    "static/media/linkedin.svg": "/sofo4ka19/portfolio.git/static/media/linkedin.42e6abe879c67b19c390bcfa9f88d1f5.svg",
+    "static/media/insta.svg": "/sofo4ka19/portfolio.git/static/media/insta.b9d4547fcfa37274c4106ed113060171.svg",
+    "index.html": "/sofo4ka19/portfolio.git/index.html",
+    "static/media/arrow.svg": "/sofo4ka19/portfolio.git/static/media/arrow.b44ca1674ffe09946456.svg",
+    "main.d4aa6f16.css.map": "/sofo4ka19/portfolio.git/static/css/main.d4aa6f16.css.map",
+    "main.960982db.js.map": "/sofo4ka19/portfolio.git/static/js/main.960982db.js.map",
+    "787.dbbd0357.chunk.js.map": "/sofo4ka19/portfolio.git/static/js/787.dbbd0357.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a938203.css",
-    "static/js/main.71262f3e.js"
+    "static/css/main.d4aa6f16.css",
+    "static/js/main.960982db.js"
   ]
 }
