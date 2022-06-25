@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.dea57188.css",
-    "main.js": "/portfolio/static/js/main.5a35becd.js",
+    "main.css": "/portfolio/static/css/main.3bdd77e0.css",
+    "main.js": "/portfolio/static/js/main.93782842.js",
     "static/js/787.dbbd0357.chunk.js": "/portfolio/static/js/787.dbbd0357.chunk.js",
     "static/media/me.jpg": "/portfolio/static/media/me.ca10bca450d7b4cf920f.jpg",
     "static/media/social.png": "/portfolio/static/media/social.4dce4fd0f90d0b026e92.png",
@@ -12,17 +12,22 @@
     "static/media/YesevaOne-Regular.ttf": "/portfolio/static/media/YesevaOne-Regular.77e7411de8c57683e277.ttf",
     "static/media/hungry.png": "/portfolio/static/media/hungry.cf96cead5543543d2e6a.png",
     "static/media/grocery.png": "/portfolio/static/media/grocery.5d3cecd5fdb9bcc1a0ae.png",
+    "static/media/sass.svg": "/portfolio/static/media/sass.2b7c53870adf181e10415dc4badccdc4.svg",
+    "static/media/react.svg": "/portfolio/static/media/react.0efb9c87a13d041008b60a4e34bc903f.svg",
     "static/media/github.svg": "/portfolio/static/media/github.3dfe2ad4559f409eebbd4f2111d6f3f5.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.42e6abe879c67b19c390bcfa9f88d1f5.svg",
+    "static/media/html.svg": "/portfolio/static/media/html.d163e7809f88028000fcc4bcf5199a4c.svg",
     "static/media/insta.svg": "/portfolio/static/media/insta.b9d4547fcfa37274c4106ed113060171.svg",
+    "static/media/js.svg": "/portfolio/static/media/js.6bee11fa201ddaa50a470f106ca63c9b.svg",
+    "static/media/figma.svg": "/portfolio/static/media/figma.79eaa87cf0934b0f560c6fa73fbc21d9.svg",
     "index.html": "/portfolio/index.html",
     "static/media/arrow.svg": "/portfolio/static/media/arrow.b44ca1674ffe09946456.svg",
-    "main.dea57188.css.map": "/portfolio/static/css/main.dea57188.css.map",
-    "main.5a35becd.js.map": "/portfolio/static/js/main.5a35becd.js.map",
+    "main.3bdd77e0.css.map": "/portfolio/static/css/main.3bdd77e0.css.map",
+    "main.93782842.js.map": "/portfolio/static/js/main.93782842.js.map",
     "787.dbbd0357.chunk.js.map": "/portfolio/static/js/787.dbbd0357.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dea57188.css",
-    "static/js/main.5a35becd.js"
+    "static/css/main.3bdd77e0.css",
+    "static/js/main.93782842.js"
   ]
 }
